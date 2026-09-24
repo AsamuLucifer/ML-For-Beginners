@@ -1,3 +1,15 @@
+---
+
+<div align="center">
+
+🇨🇳 **[点击查看中文版本](./README.zh-CN.md)** | **简体中文 README**
+
+> **机器学习入门** — 微软官方开源课程，完整中文翻译版本
+
+</div>
+
+---
+
 [![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/ML-For-Beginners.svg)](https://GitHub.com/microsoft/ML-For-Beginners/issues/)
